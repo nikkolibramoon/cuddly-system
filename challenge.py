@@ -14,8 +14,8 @@ Strings can vary in length; however, they will not be larger than 12 characters.
 
 Example:
 
-Input		[ "dh7js4jf", "or2rjvn2w", "h1n36mfl", "a7e6fw" ]
-has the sums		11, 4, 10, 13 respectively
+Input:	[ "dh7js4jf", "or2rjvn2w", "h1n36mfl", "a7e6fw" ]
+has the sums 11, 4, 10, 13 respectively
 so the output is 13"""
 
 import re
